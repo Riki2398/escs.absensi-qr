@@ -507,7 +507,7 @@ function renderSiswa(container) {
         <ul class="sidebar-menu">
           <li><a href="#" class="active" onclick="showTabSiswa('dashboard'); return false;"><i class="bi bi-speedometer2"></i> Dashboard</a></li>
           <li><a href="#" onclick="showTabSiswa('cetakqr'); return false;"><i class="bi bi-printer"></i> Cetak QR Saya</a></li>
-          <li><a href="#" onclick="showTabSiswa('gantipassword'); return false;"><i class="bi bi-key"></i> Ganti Password</a></li>
+          
         </ul>
       </div>
       
