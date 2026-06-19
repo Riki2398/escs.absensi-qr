@@ -196,7 +196,7 @@ async function doLogin() {
     
     setTimeout(() => {
       if (response.userData.role === 'Admin') loadPage('admin');
-      else if (response.userData.role === 'Wali Kelas') loadPage('walikelas');
+      else if (response.userData.role === 'Wali Kelass') loadPage('walikelas');
       else if (response.userData.role === 'Siswa') loadPage('siswa');
     }, 1500);
   } else {
