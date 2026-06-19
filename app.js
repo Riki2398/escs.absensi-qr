@@ -250,10 +250,10 @@ function renderLogin(container) {
             <i class="bi bi-shield-lock"></i> Admin
           </button>
           <button class="role-btn" data-role="Wali Kelas" onclick="selectRole('Wali Kelas')">
-            <i class="bi bi-person-workspace"></i> Wali Kelasss
+            <i class="bi bi-person-workspace"></i> Supervisor
           </button>
           <button class="role-btn" data-role="Siswa" onclick="selectRole('Siswa')">
-            <i class="bi bi-mortarboard"></i> Siswa
+            <i class="bi bi-mortarboard"></i> Student
           </button>
         </div>
         
