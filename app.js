@@ -543,7 +543,7 @@ function showTabSiswa(tab) {
   const titles = {
     'dashboard': 'Dashboard Siswa',
     'cetakqr': 'Cetak QR Code Saya',
-    'gantipassword': 'Ganti Password'
+    
   };
   
   mainContent.innerHTML = `
@@ -562,7 +562,7 @@ function showTabSiswa(tab) {
   switch(tab) {
     case 'dashboard': renderDashboardSiswa(contentArea); break;
     case 'cetakqr': renderCetakQRSiswa(contentArea); break;
-    case 'gantipassword': renderGantiPassword(contentArea); break;
+   
   }
 }
 
