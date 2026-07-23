@@ -517,7 +517,7 @@ function renderSiswa(container) {
       <div class="bottom-nav">
         <ul class="bottom-nav-menu">
           <li><a href="#" class="active" onclick="showTabMobileSiswa('dashboard'); return false;"><i class="bi bi-speedometer2"></i><span>Dashboard</span></a></li>
-          <li><a href="#" onclick="showTabMobileSiswa('cetakqr'); return false;"><i class="bi bi-printer"></i><span>QRR</span></a></li>
+          
         </ul>
       </div>
     </div>
