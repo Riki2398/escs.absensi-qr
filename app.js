@@ -1,5 +1,5 @@
 // ============ KONFIGURASI ============
-const APPS_SCRIPT_URL ='https://script.google.com/macros/s/AKfycbysLb40sEfg8H5s1V9R63Yvxb3p2twzUAcK2qa8ZG0LW043VsrJCsmVLXOnaX-s5hQjqg/exec';
+const APPS_SCRIPT_URL ='https://script.google.com/macros/s/AKfycbyjBbe34g9IFFsdjy8g2pYIjZ9JPqSou3k6TwiYLaNJ18gA_nkf7coqu74ZkF0OXC6YfQ/exec';
 const APP_LOGO = 'https://storage.tally.so/private/appp.png?id=zbeEgR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InpiZUVnUiIsImZvcm1JZCI6Im1ST0w3UCIsImlhdCI6MTc3NzE4MTk2OX0.0afYtNIs5_rHdoOsV_b9pRwFnVwXrrfCgR8imvX6P90&signature=031fab914196b40453f3160202d3e2b2fa326cb4146436480cbe13f67116a145';
 const NAMA_SEKOLAH = 'ESCS';
 const ALAMAT_SEKOLAH = 'Kota Kupang';
